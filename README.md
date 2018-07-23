@@ -1,2 +1,2 @@
 # Manglu
-Web app that allows registering and monitoring of gluten-free certification
+Web app that allows registering and monitoring the certification workflow for gluten-free products
